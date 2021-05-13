@@ -1,10 +1,11 @@
+![image](https://user-images.githubusercontent.com/59668789/118199865-f575f180-b421-11eb-80c6-bb3253245efa.png)
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 
 ### Hi, I'm Nisha 👩🏽‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> .
 
 ---
-I'm a software engineer who is passionate about cloud technologies, web development, and learning new things. Reading, soccer, music, and finding new techonogies to use are some of my favorite things. 
+I am a software engineer who is passionate about web development, cloud technologies ( AWS and Azure), and learning new things.  📚 Reading, ⚽️ soccer, 🎧 music, and finding new techonogies to use are some of my favorite hobbies. 
 
 
 
