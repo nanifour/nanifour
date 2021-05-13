@@ -1,4 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> ,  I am Nisha Holloway!
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+### Hi, I'm Nisha 👩🏽‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> .
+
+---
+I'm a software engineer who is passionate about cloud technologies, web development, and learning new things. Reading, soccer, music, and finding new techonogies to use are some of my favorite things. 
+
+
+
+
 
 <!--
 **nanifour/nanifour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
