@@ -1,11 +1,15 @@
 ![image](https://user-images.githubusercontent.com/59668789/118202986-1726a700-b429-11eb-811f-246f2eccf566.png)
 
 
-### Hi, I'm Nisha 👩🏽‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> .
+# Hi, I'm Nisha 👩🏽‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> .
 
 ---
 I am a software engineer who is passionate about web development, cloud technologies ( AWS and Azure), and learning new things.  📚 Reading, ⚽️ soccer, 🎧 music, and finding new techonogies to use are some of my favorite hobbies. 
 
+---
+## 🔧 Technologies & Toolbox  🧰
+
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Editor-Vs_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pyCharm&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=92cded)
 
 
 
