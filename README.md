@@ -9,7 +9,7 @@ I am a software engineer who is passionate about web development, cloud technolo
 ---
 ## 🔧 Technologies & Toolbox  🧰
 
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Editor-Vs_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pyCharm&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=92cded)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Editor-Vs_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pyCharm&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse-ide&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=windows-terminal&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=92cded)  ![](https://img.shields.io/badge/Package_Manager-Homebrew-informational?style=flat&logo=Homebrew&logoColor=white&color=92cded)
 
 
 
