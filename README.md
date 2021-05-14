@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/59668789/118202840-bd25e180-b428-11eb-96a3-0586104b5ddf.png)
-
+![image](https://user-images.githubusercontent.com/59668789/118202986-1726a700-b429-11eb-811f-246f2eccf566.png)
 
 
 ### Hi, I'm Nisha 👩🏽‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> .
