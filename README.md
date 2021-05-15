@@ -20,7 +20,7 @@ I am a software engineer who is passionate about web development, cloud technolo
 ---
 ## 📊 Github Stats 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanifour&show_icons=true&theme=algolia&hide=stars)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanifour&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)       
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanifour&show_icons=true&theme=algolia&hide=stars,contribs&icon_color=f35b00&title_color=92cded&border_color=f10000&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanifour&theme=algolia&layout=compact&title_color=92cded&border_color=f10000&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)       
 
 
 
