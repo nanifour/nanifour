@@ -2,7 +2,7 @@
 
 <h1> Hi, I'm Nisha 👩🏽‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px">  </h1>
 
-I am a software engineer who is passionate about web development, cloud technologies ( AWS and Azure), and learning new things.  📚 Reading, ⚽️ soccer, 🎧 music, and finding new techonogies to use are some of my favorite hobbies.
+I am a software engineer who is passionate about web development, cloud technologies ( AWS ), and learning new things.  📚 Reading, ⚽️ soccer, 🎧 music, and finding new techonogies to use are some of my favorite hobbies. View some of the things that i've worked on [here](https://nanifour.github.io/).
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nholloway013@gmail.com)   [![portfolio](https://img.shields.io/badge/Portfolio-FFD43B?style=for-the-badge&labelColor=darkgreen)](https://nanifour.github.io/)   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darnisha-holloway-013/)
   
