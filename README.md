@@ -8,7 +8,7 @@ I am a software engineer who is passionate about web development, cloud technolo
   
 </div>
   
-- 🔭 I’m currently working on a **Node.js backend** and **Soccer Kit Archive**.
+- 🔭 I’m currently working on a **Portfolio bio** and **Soccer Kit Archive**.
 - 🌱 I’m currently learning **AWS** and **Português**(Br 🇧🇷).
 - 💬 Ask me about my favorite soccer team.
 - 📫 How to reach me: [nholloway013@gmail.com](mailto:nholloway013@gmail.com) 
